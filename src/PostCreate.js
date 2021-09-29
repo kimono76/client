@@ -1,7 +1,7 @@
 import React from "react"
 
 export default ()=> {
-    <div>
+    return <div>
         <form>
             <div className="form-group">
                 <label>Title</label>
